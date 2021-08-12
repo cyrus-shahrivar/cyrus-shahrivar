@@ -8,4 +8,4 @@
 #### Project Highlights
 
 - [Disney+](https://www.disneyplus.com): Led Web Frontend Account & Commerce team between 2018-2021 
-- [The Refugee Data Visualizer Project](https://refugee-data-viz.herokuapp.com/): A data visualization project I worked on long ago (2015) that I'm getting around to updating with new data and interactivity. [Code ->](https://github.com/cyrus-shahrivar/RefugeeDataVizApp)
+- [The Refugee Data Visualizer Project](https://cyrus-shahrivar.github.io/RefugeeDataVizApp/): A data visualization project I worked on long ago (2015) that I'm getting around to updating with new data and interactivity. [Code ->](https://github.com/cyrus-shahrivar/RefugeeDataVizApp)
